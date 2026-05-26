@@ -40,4 +40,5 @@ def bell_state_experiment(shots=1024):
     return counts
 
 if __name__ == "__main__":
-    bell_state_experiment()
+    bell_state_experiment() 
+    
